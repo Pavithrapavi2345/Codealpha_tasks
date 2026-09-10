@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"Uarduino uno ",1," Arduino Uno R3"
+"Rldr",1," Photoresistor"
+"Dled1",1,"Blue LED"
+"Dled2",1,"Green LED"
+"R1",1,"10 kΩ Resistor"
+"R2, R3, R4",3,"220 Ω Resistor"
+"1",1," Breadboard Small"
+"Dled3",1,"Red LED"
